@@ -2,6 +2,8 @@
 
 Validates PCR, sequencing and mutagenesis primer pairs using a reusable CLI + Streamlit interface.
 
+[Click here to view the Live Interactive Web App Demo](https://primer-design-validation-assistant-trial-eh2wj8grt6dkfdfuhtx69.streamlit.app/)
+
 ## Features
 
 - GC percentage, length and Wallace-rule melting temperature
